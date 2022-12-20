@@ -1,4 +1,4 @@
-import { element, toString, toDom, XmlNode } from "./mod.mjs";
+import { element, toDom, toString, XmlNode } from "./mod.mjs";
 import { Document } from "https://deno.land/x/deno_dom@v0.1.36-alpha/deno-dom-wasm.ts";
 
 const TREE_SIZE = 200;
